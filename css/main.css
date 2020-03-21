@@ -109,6 +109,7 @@ p.memberBio
   animation-name: circularAnim;
   animation-duration: 10s;
   animation-iteration-count: infinite;
+  animation-timing-function: linear;
 
   transition: 0.5s all ease;
   z-index: -1;
@@ -128,6 +129,7 @@ p.memberBio
   animation-name: circularAnim02;
   animation-duration: 10s;
   animation-iteration-count: infinite;
+  animation-timing-function: linear;
 
   transition: 0.5s all ease;
   z-index: -1;
@@ -147,6 +149,7 @@ p.memberBio
   animation-name: circularAnim;
   animation-duration: 10s;
   animation-iteration-count: infinite;
+  animation-timing-function: linear;
 
   transition: 0.5s all ease;
   z-index: -1;
@@ -166,6 +169,7 @@ p.memberBio
   animation-name: circularAnim;
   animation-duration: 10s;
   animation-iteration-count: infinite;
+  animation-timing-function: linear;
 
   transition: 0.5s all ease;
   z-index: -1;
